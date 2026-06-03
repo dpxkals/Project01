@@ -1,0 +1,9 @@
+[32108:45472:0530/133807.608:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32108:24160:0530/133807.685:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[32108:45472:0530/133807.704:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32108:45472:0530/133812.714:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[12736:48080:0530/133818.930:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B4B6D48ECC0B1BA59643D356AC0FD5C4 will be ignored
+[44760:8396:0530/133820.584:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-F8E744569415C3A7767EA8BCBB9E2B47 will be ignored
+[47612:12484:0530/133820.896:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[32108:48116:0530/133821.295:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[32108:45472:0530/135124.674:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

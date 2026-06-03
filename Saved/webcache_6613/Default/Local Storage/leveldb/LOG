@@ -1,0 +1,14 @@
+2026/06/03-19:13:24.190 4440 Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project_01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/03-19:13:24.212 4440 Recovering log #69
+2026/06/03-19:13:24.213 4440 Level-0 table #71: started
+2026/06/03-19:13:24.223 4440 Level-0 table #71: 78693 bytes OK
+2026/06/03-19:13:24.231 4440 Delete type=0 #69
+2026/06/03-19:13:24.232 f054 Compacting 4@0 + 1@1 files
+2026/06/03-19:13:24.252 f054 Generated table #73@0: 15 keys, 41897 bytes
+2026/06/03-19:13:24.252 f054 Compacted 4@0 + 1@1 files => 41897 bytes
+2026/06/03-19:13:24.253 f054 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/03-19:13:24.254 f054 Delete type=2 #61
+2026/06/03-19:13:24.255 f054 Delete type=2 #63
+2026/06/03-19:13:24.255 f054 Delete type=2 #65
+2026/06/03-19:13:24.255 f054 Delete type=2 #68
+2026/06/03-19:13:24.255 f054 Delete type=2 #71
