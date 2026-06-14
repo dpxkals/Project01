@@ -1,3 +1,35 @@
-2026/06/13-17:14:44.194 c57c Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/13-17:14:44.219 c57c Recovering log #75
-2026/06/13-17:14:44.225 c57c Reusing old log D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/000075.log 
+2026/06/13-21:55:19.906 aa64 Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/13-21:55:19.926 aa64 Recovering log #75
+2026/06/13-21:55:19.954 aa64 Reusing old log D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/000075.log 
+2026/06/13-22:47:50.585 423c Level-0 table #78: started
+2026/06/13-22:47:50.593 423c Level-0 table #78: 66912 bytes OK
+2026/06/13-22:47:50.596 423c Delete type=0 #75
+2026/06/13-22:49:44.935 423c Level-0 table #80: started
+2026/06/13-22:49:44.943 423c Level-0 table #80: 71704 bytes OK
+2026/06/13-22:49:44.945 423c Delete type=0 #77
+2026/06/13-23:34:43.773 423c Level-0 table #82: started
+2026/06/13-23:34:43.781 423c Level-0 table #82: 76951 bytes OK
+2026/06/13-23:34:43.784 423c Delete type=0 #79
+2026/06/13-23:34:43.785 423c Compacting 4@0 + 1@1 files
+2026/06/13-23:34:43.793 423c Generated table #83@0: 15 keys, 48377 bytes
+2026/06/13-23:34:43.793 423c Compacted 4@0 + 1@1 files => 48377 bytes
+2026/06/13-23:34:43.795 423c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/13-23:34:43.796 423c Delete type=2 #73
+2026/06/13-23:34:43.796 423c Delete type=2 #75
+2026/06/13-23:34:43.796 423c Delete type=2 #78
+2026/06/13-23:34:43.796 423c Delete type=2 #80
+2026/06/13-23:34:43.796 423c Delete type=2 #82
+2026/06/13-23:35:02.349 423c Level-0 table #85: started
+2026/06/13-23:35:02.357 423c Level-0 table #85: 77223 bytes OK
+2026/06/13-23:35:02.359 423c Delete type=0 #81
+2026/06/13-23:35:23.754 423c Level-0 table #87: started
+2026/06/13-23:35:23.762 423c Level-0 table #87: 77699 bytes OK
+2026/06/13-23:35:23.765 423c Delete type=0 #84
+2026/06/13-23:35:37.245 423c Level-0 table #89: started
+2026/06/13-23:35:37.253 423c Level-0 table #89: 77447 bytes OK
+2026/06/13-23:35:37.256 423c Delete type=0 #86
+2026/06/14-03:03:58.332 423c Level-0 table #91: started
+2026/06/14-03:03:58.347 423c Level-0 table #91: 77419 bytes OK
+2026/06/14-03:03:58.352 423c Delete type=0 #88
+2026/06/14-03:03:58.353 423c Compacting 4@0 + 1@1 files
+2026/06/14-03:03:58.359 423c compacted to: files[ 4 1 1 0 0 0 0 ]
