@@ -1,13 +1,5 @@
-2026/06/14-19:13:27.830 4e0c Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/14-19:13:27.853 4e0c Recovering log #90
-2026/06/14-19:13:27.870 4e0c Reusing old log D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/000090.log 
-2026/06/14-19:13:27.871 4e0c Delete type=2 #92
-2026/06/14-19:13:27.873 3de4 Compacting 4@0 + 1@1 files
-2026/06/14-19:13:27.896 3de4 Generated table #93@0: 15 keys, 48517 bytes
-2026/06/14-19:13:27.896 3de4 Compacted 4@0 + 1@1 files => 48517 bytes
-2026/06/14-19:13:27.897 3de4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/14-19:13:27.899 3de4 Delete type=2 #83
-2026/06/14-19:13:27.899 3de4 Delete type=2 #85
-2026/06/14-19:13:27.899 3de4 Delete type=2 #87
-2026/06/14-19:13:27.899 3de4 Delete type=2 #89
-2026/06/14-19:13:27.899 3de4 Delete type=2 #91
+2026/06/15-21:01:30.395 b43c Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/15-21:01:30.442 b43c Recovering log #90
+2026/06/15-21:01:30.442 b43c Level-0 table #95: started
+2026/06/15-21:01:30.453 b43c Level-0 table #95: 99720 bytes OK
+2026/06/15-21:01:30.461 b43c Delete type=0 #90
