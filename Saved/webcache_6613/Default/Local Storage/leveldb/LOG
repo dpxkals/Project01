@@ -1,6 +1,3 @@
-2026/06/17-22:53:58.610 bc80 Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/17-22:53:58.620 bc80 Recovering log #116
-2026/06/17-22:53:58.627 bc80 Reusing old log D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/000116.log 
-2026/06/17-22:54:20.876 6874 Level-0 table #120: started
-2026/06/17-22:54:20.884 6874 Level-0 table #120: 76564 bytes OK
-2026/06/17-22:54:20.887 6874 Delete type=0 #116
+2026/06/18-01:57:04.932 37cc Reusing MANIFEST D:\Unreal\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/18-01:57:04.945 37cc Recovering log #125
+2026/06/18-01:57:04.954 37cc Reusing old log D:\Unreal\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/000125.log 

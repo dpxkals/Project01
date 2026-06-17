@@ -1,0 +1,14 @@
+# Unreal Engine 5 임시 및 빌드 파일 제외
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
