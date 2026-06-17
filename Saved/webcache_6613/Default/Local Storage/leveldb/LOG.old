@@ -1,43 +1,10 @@
-2026/06/15-21:57:11.458 9d04 Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/15-21:57:11.468 9d04 Recovering log #96
-2026/06/15-21:57:11.469 9d04 Level-0 table #98: started
-2026/06/15-21:57:11.481 9d04 Level-0 table #98: 92677 bytes OK
-2026/06/15-21:57:11.490 9d04 Delete type=0 #96
-2026/06/16-00:56:39.117 822c Level-0 table #101: started
-2026/06/16-00:56:39.125 822c Level-0 table #101: 84621 bytes OK
-2026/06/16-00:56:39.128 822c Delete type=0 #99
-2026/06/16-00:57:04.759 822c Level-0 table #103: started
-2026/06/16-00:57:04.767 822c Level-0 table #103: 75663 bytes OK
-2026/06/16-00:57:04.769 822c Delete type=0 #100
-2026/06/16-00:57:04.770 822c Compacting 4@0 + 1@1 files
-2026/06/16-00:57:04.778 822c Generated table #104@0: 15 keys, 48553 bytes
-2026/06/16-00:57:04.778 822c Compacted 4@0 + 1@1 files => 48553 bytes
-2026/06/16-00:57:04.779 822c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/16-00:57:04.781 822c Delete type=2 #93
-2026/06/16-00:57:04.781 822c Delete type=2 #95
-2026/06/16-00:57:04.781 822c Delete type=2 #98
-2026/06/16-00:57:04.781 822c Delete type=2 #101
-2026/06/16-00:57:04.781 822c Delete type=2 #103
-2026/06/16-00:57:17.117 822c Level-0 table #106: started
-2026/06/16-00:57:17.125 822c Level-0 table #106: 75651 bytes OK
-2026/06/16-00:57:17.127 822c Delete type=0 #102
-2026/06/16-00:57:31.539 822c Level-0 table #108: started
-2026/06/16-00:57:31.547 822c Level-0 table #108: 76195 bytes OK
-2026/06/16-00:57:31.549 822c Delete type=0 #105
-2026/06/16-00:57:43.213 822c Level-0 table #110: started
-2026/06/16-00:57:43.221 822c Level-0 table #110: 76799 bytes OK
-2026/06/16-00:57:43.223 822c Delete type=0 #107
-2026/06/16-00:57:58.528 822c Level-0 table #112: started
-2026/06/16-00:57:58.536 822c Level-0 table #112: 76534 bytes OK
-2026/06/16-00:57:58.539 822c Delete type=0 #109
-2026/06/16-00:57:58.539 822c Compacting 4@0 + 1@1 files
-2026/06/16-00:57:58.547 822c Generated table #113@0: 15 keys, 48969 bytes
-2026/06/16-00:57:58.547 822c Compacted 4@0 + 1@1 files => 48969 bytes
-2026/06/16-00:57:58.548 822c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/16-00:57:58.550 822c Delete type=2 #104
-2026/06/16-00:57:58.550 822c Delete type=2 #106
-2026/06/16-00:57:58.550 822c Delete type=2 #108
-2026/06/16-00:57:58.550 822c Delete type=2 #110
-2026/06/16-00:57:58.550 822c Delete type=2 #112
-2026/06/16-00:58:13.240 822c Level-0 table #115: started
-2026/06/16-00:58:13.251 822c Level-0 table #115: 76643 bytes OK
+2026/06/17-21:12:33.466 aa28 Reusing MANIFEST D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/17-21:12:33.489 aa28 Recovering log #111
+2026/06/17-21:12:33.489 aa28 Level-0 table #115: started
+2026/06/17-21:12:33.500 aa28 Level-0 table #115: 76643 bytes OK
+2026/06/17-21:12:33.512 aa28 Recovering log #114
+2026/06/17-21:12:33.517 aa28 Reusing old log D:\언리얼엔진_프로젝트(3학년)\Project01\Saved\webcache_6613\Default\Local Storage\leveldb/000114.log 
+2026/06/17-21:12:33.520 aa28 Delete type=0 #111
+2026/06/17-21:29:03.699 3fbc Level-0 table #117: started
+2026/06/17-21:29:03.708 3fbc Level-0 table #117: 93978 bytes OK
+2026/06/17-21:29:03.711 3fbc Delete type=0 #114
